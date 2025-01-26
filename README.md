@@ -1,2 +1,2 @@
-# iitm
+# IITM
 Projects done in IITM BSc Course
